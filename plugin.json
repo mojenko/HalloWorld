@@ -1,0 +1,8 @@
+{
+    "name"              :"HalloWorld",
+    "description"       :"My first plugin",
+    "namespace"         :"HalloWorld\\Providers\\HalloWorldServiceProvider",
+    "author"            :"René Sabin",
+    "type"              :"template",
+    "serviceProvider"   :null
+}
